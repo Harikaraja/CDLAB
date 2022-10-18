@@ -8,5 +8,4 @@ extern int currentPos;
 
 int search(char*);
 void insert(char*,int);
-
 void reset();
